@@ -1,0 +1,7 @@
+## Interface: 80200
+## Title: orbClassPortrait
+## Notes: Apply class icons on portrait of the targets and class colors on nameplates
+## Author: Orbey
+## Version: 1.0.0
+
+main.lua
