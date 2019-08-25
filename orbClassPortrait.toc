@@ -1,4 +1,4 @@
-## Interface: 80200
+## Interface: 11302
 ## Title: orbClassPortrait
 ## Notes: Apply class icons on portrait of the targets and class colors on nameplates
 ## Author: Orbey
